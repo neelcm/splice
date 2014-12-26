@@ -1,0 +1,1 @@
+- set $GOPATH to where lib/ is located
